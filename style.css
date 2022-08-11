@@ -1,0 +1,65 @@
+h1 {
+    font-family: 'Bebas Neue', cursive;
+}
+
+#Name {
+    font-size: 60px;
+}
+
+#Masqurul {
+
+    font-size: 75px;
+    background-image: radial-gradient(skyblue, blue, violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+
+section {
+    display: flex;
+}
+
+
+.half-width {
+    width: 50%;
+    padding-left: 20px;
+}
+
+.half-width img {
+    width: 90%;
+    padding-left: 50px;
+}
+
+#fb {
+    text-decoration: none;
+    font-size: x-large;
+    color: aliceblue;
+    background-image: radial-gradient(blue, white);
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+p {
+    text-align: justify;
+    font-size: x-large;
+}
+
+h3 {
+    font-size: xx-large;
+}
+
+.top-banner {
+    background-image: url(/images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+body {
+    margin: 0ch;
+}
+
+#first-line {
+    text-align: center;
+    padding-right: 50px;
+    font-size: xx-large;
+}
