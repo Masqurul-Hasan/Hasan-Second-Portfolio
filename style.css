@@ -85,7 +85,36 @@ body {
     background-image: url(/images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
 
+.Experience-item {
+    box-shadow: 10px 10px 40px rgb(57, 1, 141);
+    margin-right: 60px;
+    margin-left: 40px;
+    border-radius: 10px;
+    padding-left: 40px;
 
+}
 
+.Experience {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#fsd {
+    border-left: 10px solid;
+    border-color: salmon;
+}
+
+#bwd {
+    border-left: 10px solid;
+    border-image: linear-gradient(blue, skyblue);
+    border-image-slice: 1;
+}
+
+#footer {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
 }
