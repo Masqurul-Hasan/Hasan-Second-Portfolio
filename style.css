@@ -17,6 +17,7 @@ h1 {
 
 section {
     display: flex;
+    padding-bottom: 100px;
 }
 
 
@@ -38,11 +39,13 @@ section {
     padding: 10px;
     border-radius: 10px;
 
+
 }
 
 p {
     text-align: justify;
     font-size: x-large;
+    padding-bottom: 20px;
 }
 
 h3 {
@@ -56,10 +59,33 @@ h3 {
 
 body {
     margin: 0ch;
+
 }
 
 #first-line {
     text-align: center;
     padding-right: 50px;
     font-size: xx-large;
+}
+
+.dream-big {
+    width: 50%;
+
+}
+
+.dream-big img {
+    width: 80%;
+}
+
+#d-para {
+    padding-right: 50px;
+}
+
+.bg-img {
+    background-image: url(/images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+
+
 }
