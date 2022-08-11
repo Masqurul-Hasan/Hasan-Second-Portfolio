@@ -15,7 +15,7 @@ h1 {
 
 }
 
-section {
+.display-flex-section {
     display: flex;
     padding-bottom: 100px;
 }
